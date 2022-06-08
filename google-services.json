@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912483286",
+    "project_id": "rti-job-timer",
+    "storage_bucket": "rti-job-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912483286:android:b27811a77893a565277a77",
+        "android_client_info": {
+          "package_name": "br.dev.rtiinformatica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912483286-qvgc58srhavojdm4dncc03thhq7n80hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClH0XCFhLZBlB1vu2OYnnIVodTQMU8F-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912483286-qvgc58srhavojdm4dncc03thhq7n80hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
